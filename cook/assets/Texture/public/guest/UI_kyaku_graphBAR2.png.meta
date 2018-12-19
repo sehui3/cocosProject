@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7cbf5f85-14d2-49d0-ac17-5916c5f58089",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "UI_kyaku_graphBAR2": {
+      "ver": "1.0.3",
+      "uuid": "d4fe5db4-4dbc-42ad-9eb3-249dfe7c139b",
+      "rawTextureUuid": "7cbf5f85-14d2-49d0-ac17-5916c5f58089",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 63,
+      "height": 63,
+      "rawWidth": 67,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "bed2fade-d216-4c4a-aa81-fc74345c4d72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "家常豆腐": {
+      "ver": "1.0.3",
+      "uuid": "760b1898-af43-4a36-9f55-13ed10a226aa",
+      "rawTextureUuid": "bed2fade-d216-4c4a-aa81-fc74345c4d72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 110,
+      "rawWidth": 150,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

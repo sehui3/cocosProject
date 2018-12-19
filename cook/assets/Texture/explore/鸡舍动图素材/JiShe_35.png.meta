@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e4f0d3f1-0668-499d-bd03-b6d0721ab258",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "JiShe_35": {
+      "ver": "1.0.3",
+      "uuid": "f066bf65-2c05-4ed0-a9a9-59077ef62e6f",
+      "rawTextureUuid": "e4f0d3f1-0668-499d-bd03-b6d0721ab258",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 25,
+      "height": 11,
+      "rawWidth": 25,
+      "rawHeight": 11,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

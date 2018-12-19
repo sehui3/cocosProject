@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "14424cf6-2153-4164-b777-1100738eb2ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "4-4食材获取途径": {
+      "ver": "1.0.3",
+      "uuid": "e2d4a73f-248f-4a57-a77c-611e0707407d",
+      "rawTextureUuid": "14424cf6-2153-4164-b777-1100738eb2ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1280,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

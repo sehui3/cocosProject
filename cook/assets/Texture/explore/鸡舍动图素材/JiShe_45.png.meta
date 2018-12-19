@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a33bb393-93cd-455a-bd74-384be06e1c71",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "JiShe_45": {
+      "ver": "1.0.3",
+      "uuid": "df8a74a8-8d07-4112-9d39-4d5a2516fcec",
+      "rawTextureUuid": "a33bb393-93cd-455a-bd74-384be06e1c71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 59,
+      "rawWidth": 62,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c97b27dd-371d-44da-a4e6-2b3aa84491e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "鱿鱼筒烤饭": {
+      "ver": "1.0.3",
+      "uuid": "df489007-fe2d-4c3c-9941-69f7cd11e682",
+      "rawTextureUuid": "c97b27dd-371d-44da-a4e6-2b3aa84491e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 116,
+      "rawWidth": 172,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

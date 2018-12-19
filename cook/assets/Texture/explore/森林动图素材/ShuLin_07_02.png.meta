@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8f7d7bd3-0893-4930-900d-de0ad2c105a9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ShuLin_07_02": {
+      "ver": "1.0.3",
+      "uuid": "f8c41cab-38ab-4d58-b388-487bddeaeb6c",
+      "rawTextureUuid": "8f7d7bd3-0893-4930-900d-de0ad2c105a9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 10,
+      "height": 4,
+      "rawWidth": 10,
+      "rawHeight": 4,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

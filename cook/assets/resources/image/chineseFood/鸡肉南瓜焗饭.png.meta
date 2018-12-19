@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cd8babc1-cb54-4c7c-9ba5-727b6a255eb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "鸡肉南瓜焗饭": {
+      "ver": "1.0.3",
+      "uuid": "d2228352-3c19-4fa3-b661-cfb002409b27",
+      "rawTextureUuid": "cd8babc1-cb54-4c7c-9ba5-727b6a255eb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 96,
+      "rawWidth": 157,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

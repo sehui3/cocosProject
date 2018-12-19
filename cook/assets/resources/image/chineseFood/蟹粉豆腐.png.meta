@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cec1ee62-75bc-49de-abf8-692d1ee3a955",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "蟹粉豆腐": {
+      "ver": "1.0.3",
+      "uuid": "62787c85-7892-481c-a03b-90140304b56b",
+      "rawTextureUuid": "cec1ee62-75bc-49de-abf8-692d1ee3a955",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 112,
+      "rawWidth": 148,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

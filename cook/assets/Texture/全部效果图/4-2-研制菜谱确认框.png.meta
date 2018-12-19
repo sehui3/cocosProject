@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "459269c6-2d5f-423c-bff0-ab1f9bfe2c3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "4-2-研制菜谱确认框": {
+      "ver": "1.0.3",
+      "uuid": "cc404848-b6c2-4714-a564-8a28d8aef874",
+      "rawTextureUuid": "459269c6-2d5f-423c-bff0-ab1f9bfe2c3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1280,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

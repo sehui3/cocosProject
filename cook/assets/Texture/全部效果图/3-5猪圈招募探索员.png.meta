@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "74f9ec03-f679-46db-bdd3-a89c0dfe156e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "3-5猪圈招募探索员": {
+      "ver": "1.0.3",
+      "uuid": "18288d41-a727-4ece-a254-3986f4cb55b7",
+      "rawTextureUuid": "74f9ec03-f679-46db-bdd3-a89c0dfe156e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1280,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

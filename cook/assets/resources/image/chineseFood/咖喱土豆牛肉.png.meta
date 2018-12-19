@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0a01eb08-4242-453f-b925-74d5a0e58da6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "咖喱土豆牛肉": {
+      "ver": "1.0.3",
+      "uuid": "3b3d3d7a-37d8-4d87-98e7-1cfc16784270",
+      "rawTextureUuid": "0a01eb08-4242-453f-b925-74d5a0e58da6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 148,
+      "height": 126,
+      "rawWidth": 148,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

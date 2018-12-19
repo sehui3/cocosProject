@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3835ea46-4dfd-4539-9717-84a10c902755",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "CaiYuan02_01": {
+      "ver": "1.0.3",
+      "uuid": "469b5108-00f4-4dca-86f9-26766b0f5b97",
+      "rawTextureUuid": "3835ea46-4dfd-4539-9717-84a10c902755",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 163,
+      "height": 175,
+      "rawWidth": 163,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

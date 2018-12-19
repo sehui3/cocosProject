@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "73bc8e87-0367-406c-b820-e98d8e870b22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "大底九宫": {
+      "ver": "1.0.3",
+      "uuid": "64a6360c-f947-4f4e-961d-f5614be8afb9",
+      "rawTextureUuid": "73bc8e87-0367-406c-b820-e98d8e870b22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 91,
+      "height": 93,
+      "rawWidth": 91,
+      "rawHeight": 93,
+      "borderTop": 45,
+      "borderBottom": 44,
+      "borderLeft": 44,
+      "borderRight": 44,
+      "subMetas": {}
+    }
+  }
+}

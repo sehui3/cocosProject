@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f367048b-9482-49a7-b1ea-b868c06088aa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "收集度底九宫": {
+      "ver": "1.0.3",
+      "uuid": "9e02df6d-752b-4e94-bc55-6c1c872d310b",
+      "rawTextureUuid": "f367048b-9482-49a7-b1ea-b868c06088aa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 58,
+      "height": 37,
+      "rawWidth": 58,
+      "rawHeight": 37,
+      "borderTop": 18,
+      "borderBottom": 18,
+      "borderLeft": 28,
+      "borderRight": 28,
+      "subMetas": {}
+    }
+  }
+}

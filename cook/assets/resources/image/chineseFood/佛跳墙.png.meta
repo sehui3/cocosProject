@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "817621cd-1d9d-4a37-8981-d4c051e00feb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "佛跳墙": {
+      "ver": "1.0.3",
+      "uuid": "ee596172-0264-4dfa-9c55-aafe7c9ea1c4",
+      "rawTextureUuid": "817621cd-1d9d-4a37-8981-d4c051e00feb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 134,
+      "rawWidth": 184,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

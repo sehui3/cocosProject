@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e47ac9d9-3263-4d1e-a84a-85062f89ef80",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "cha07_anm_walk_front02": {
+      "ver": "1.0.3",
+      "uuid": "27bb1c30-775e-47e9-8541-21bd72550651",
+      "rawTextureUuid": "e47ac9d9-3263-4d1e-a84a-85062f89ef80",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -3.5,
+      "trimX": 29,
+      "trimY": 12,
+      "width": 69,
+      "height": 111,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

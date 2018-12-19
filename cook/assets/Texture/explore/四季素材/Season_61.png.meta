@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "275d7d7b-4f3b-4b63-b979-23cda0e7910d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Season_61": {
+      "ver": "1.0.3",
+      "uuid": "91a9a25d-e1c1-4785-9231-ff4167b3c328",
+      "rawTextureUuid": "275d7d7b-4f3b-4b63-b979-23cda0e7910d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 79,
+      "height": 83,
+      "rawWidth": 80,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

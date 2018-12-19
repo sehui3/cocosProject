@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "87187093-42f0-413b-9e00-0b6390d2aeea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "番茄鸡蛋面": {
+      "ver": "1.0.3",
+      "uuid": "ec180634-8dbb-4f47-9389-48d339b7b3aa",
+      "rawTextureUuid": "87187093-42f0-413b-9e00-0b6390d2aeea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 115,
+      "rawWidth": 142,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

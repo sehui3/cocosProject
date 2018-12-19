@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "94616535-2bed-4b73-9fac-42a71cbe5e57",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "冰激凌华夫饼": {
+      "ver": "1.0.3",
+      "uuid": "2bd425a8-f9b5-44f7-b12f-d3c538786448",
+      "rawTextureUuid": "94616535-2bed-4b73-9fac-42a71cbe5e57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 159,
+      "height": 119,
+      "rawWidth": 159,
+      "rawHeight": 119,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

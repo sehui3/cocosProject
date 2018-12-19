@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "26025022-493e-41f1-a2f9-4b8b60d256cf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "FoodAtlas": {
+      "ver": "1.0.3",
+      "uuid": "ebdce717-5871-409e-9105-548bd5c5a90c",
+      "rawTextureUuid": "26025022-493e-41f1-a2f9-4b8b60d256cf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 128,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 508,
+      "height": 764,
+      "rawWidth": 512,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

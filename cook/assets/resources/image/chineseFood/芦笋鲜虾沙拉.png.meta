@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a775febd-07d6-4278-bfa4-8eb566ef8a81",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "芦笋鲜虾沙拉": {
+      "ver": "1.0.3",
+      "uuid": "9d24b4e5-0990-4bf9-a975-065f20d76de3",
+      "rawTextureUuid": "a775febd-07d6-4278-bfa4-8eb566ef8a81",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 115,
+      "rawWidth": 172,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

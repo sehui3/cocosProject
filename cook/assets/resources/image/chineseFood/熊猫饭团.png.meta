@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4ddb061f-f174-44f0-93e3-6fb4f4290c4d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "熊猫饭团": {
+      "ver": "1.0.3",
+      "uuid": "350e109b-fedd-47e3-9d09-2aa49b37e07e",
+      "rawTextureUuid": "4ddb061f-f174-44f0-93e3-6fb4f4290c4d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 129,
+      "rawWidth": 157,
+      "rawHeight": 129,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

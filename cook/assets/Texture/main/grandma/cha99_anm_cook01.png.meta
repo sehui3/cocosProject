@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8a92bd34-e09c-4d0c-acca-7aae1c9f7a8e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "cha99_anm_cook01": {
+      "ver": "1.0.3",
+      "uuid": "4544dfe9-ad84-49d2-aafd-872a01ddd881",
+      "rawTextureUuid": "8a92bd34-e09c-4d0c-acca-7aae1c9f7a8e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -31,
+      "offsetY": 13.5,
+      "trimX": 28,
+      "trimY": 35,
+      "width": 138,
+      "height": 159,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

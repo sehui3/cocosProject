@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "80a3d99e-8dc6-445a-b087-810c742648e1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "UI_kyaku_popup_nextfood": {
+      "ver": "1.0.3",
+      "uuid": "c27a80ae-2d27-40ed-91c8-6385bf8cba70",
+      "rawTextureUuid": "80a3d99e-8dc6-445a-b087-810c742648e1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 172,
+      "height": 156,
+      "rawWidth": 176,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e3d03085-d4ac-4c4a-a5f4-24d4a3e973ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "UI_ryouri_popup_stars04": {
+      "ver": "1.0.3",
+      "uuid": "087b6347-9dbe-4b94-a651-74daddbcb9fd",
+      "rawTextureUuid": "e3d03085-d4ac-4c4a-a5f4-24d4a3e973ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 144,
+      "height": 29,
+      "rawWidth": 149,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

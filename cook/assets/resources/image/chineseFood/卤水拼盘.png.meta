@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "10941bb1-d8fd-4e7f-a5c3-9cb2b69f470c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "卤水拼盘": {
+      "ver": "1.0.3",
+      "uuid": "7b6423c8-4d35-493e-803f-682ccf97cd19",
+      "rawTextureUuid": "10941bb1-d8fd-4e7f-a5c3-9cb2b69f470c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 122,
+      "rawWidth": 170,
+      "rawHeight": 122,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

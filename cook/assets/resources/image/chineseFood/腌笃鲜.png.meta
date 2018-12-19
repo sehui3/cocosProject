@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9a9620f5-9b9e-43f0-95be-579ac88ea373",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "腌笃鲜": {
+      "ver": "1.0.3",
+      "uuid": "ca7726db-3f2f-47da-ba15-374270a305f8",
+      "rawTextureUuid": "9a9620f5-9b9e-43f0-95be-579ac88ea373",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 125,
+      "rawWidth": 184,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

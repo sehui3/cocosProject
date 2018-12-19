@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "fe81b2db-e12e-4088-9b9d-d50270c5fa27",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "tanzaku_button": {
+      "ver": "1.0.3",
+      "uuid": "eeb236e1-e57f-424a-9e9e-bd2aa3c5be1b",
+      "rawTextureUuid": "fe81b2db-e12e-4088-9b9d-d50270c5fa27",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 139,
+      "height": 119,
+      "rawWidth": 139,
+      "rawHeight": 121,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

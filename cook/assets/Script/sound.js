@@ -1,0 +1,164 @@
+let Global = require("./Global")
+cc.Class({
+    extends: cc.Component,
+
+    properties: {
+        paySound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"结账音效"
+        },
+        foodUpSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"料理升级"
+        },
+        addFoodSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"追加新料理"
+        },
+        putFoodSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"放置新料理"
+        },
+        openSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"开门"
+        },
+        offSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"关门"
+        },
+        bubblingSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"冒菜"
+        },
+        pointSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"点菜"
+        },
+        addSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"加速"
+        },
+        boiledSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"煮菜",
+        },
+        washSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"洗完",
+        },
+        openBtnSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"打开按钮",
+        },
+        closBtnSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"关闭按钮",
+        },
+        addEquiSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"添加设备"
+        },
+        BGSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"背景",
+        },
+        BGSound2:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"背景2",
+        },
+        NextSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"客人页切换",
+        },
+        DialogueSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"追加对话",
+        },
+        problemSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"问号",
+        },
+        questionSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"疑问",
+        },
+        foreheadSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"额头",
+        },
+        noteSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"音符",
+        },
+        lotSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"很多汗",
+        },
+        whoopeeSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"哈哈",
+        },
+        sweatSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"汗水",
+        },
+        surprisedSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"当",
+        },
+        normalSound:{
+            type:cc.AudioClip,
+            default:null,
+            displayName:"对话中普通点击",
+        },
+    },
+
+    // LIFE-CYCLE CALLBACKS:
+
+    // onLoad () {},
+    PaySound(sou){
+        if(Global.gameData.soundEnabled){
+            cc.audioEngine.play(sou,false,1)
+        }
+    },
+    PayBG(){
+        cc.audioEngine.stop(Global.audio.background);
+        Global.audio.background = cc.audioEngine.play(this.BGSound,true,0.5)
+    },
+    PayBG2(){
+        cc.audioEngine.stop(Global.audio.background);
+        Global.audio.background = cc.audioEngine.play(this.BGSound2,false,0.5)
+    },
+    start () {
+
+    },
+
+    // update (dt) {},
+});

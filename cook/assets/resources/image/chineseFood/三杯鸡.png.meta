@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2f9ab953-043a-4ca2-9227-4d5decf72643",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "三杯鸡": {
+      "ver": "1.0.3",
+      "uuid": "7a4bbddf-eea9-40c6-8a1e-717093911630",
+      "rawTextureUuid": "2f9ab953-043a-4ca2-9227-4d5decf72643",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 186,
+      "height": 120,
+      "rawWidth": 186,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

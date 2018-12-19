@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c0557d4e-bc2a-4f87-adbc-8cc38794c940",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "咖喱蟹": {
+      "ver": "1.0.3",
+      "uuid": "33ae801e-5ce4-49f1-9434-a885d175fa6c",
+      "rawTextureUuid": "c0557d4e-bc2a-4f87-adbc-8cc38794c940",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 164,
+      "height": 133,
+      "rawWidth": 164,
+      "rawHeight": 133,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

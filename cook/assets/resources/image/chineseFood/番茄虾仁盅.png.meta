@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "94bd12b9-140f-4251-9920-606f08c5784e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "番茄虾仁盅": {
+      "ver": "1.0.3",
+      "uuid": "459c4409-d736-47a8-b7cd-52d293463edb",
+      "rawTextureUuid": "94bd12b9-140f-4251-9920-606f08c5784e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 166,
+      "height": 130,
+      "rawWidth": 166,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

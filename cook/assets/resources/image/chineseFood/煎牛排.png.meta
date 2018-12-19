@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "22a4bfd1-b1f7-4fe1-a532-ff7333054deb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "煎牛排": {
+      "ver": "1.0.3",
+      "uuid": "3590c5cc-5cfe-456b-8695-9f72311ea524",
+      "rawTextureUuid": "22a4bfd1-b1f7-4fe1-a532-ff7333054deb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 178,
+      "height": 130,
+      "rawWidth": 178,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

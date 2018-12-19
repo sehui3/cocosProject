@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "e22b3a2d-674d-47a6-b226-36ce88f9d7bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "八宝饭": {
+      "ver": "1.0.3",
+      "uuid": "5721b05e-9948-4d23-953c-fd26441ea5c4",
+      "rawTextureUuid": "e22b3a2d-674d-47a6-b226-36ce88f9d7bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 101,
+      "rawWidth": 157,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

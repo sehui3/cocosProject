@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5bcf4ebc-5397-4816-8855-39b28d8dd7ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "探索场地_03": {
+      "ver": "1.0.3",
+      "uuid": "08df30b0-8147-4c91-b1b6-d2b28c07d908",
+      "rawTextureUuid": "5bcf4ebc-5397-4816-8855-39b28d8dd7ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 167,
+      "rawWidth": 170,
+      "rawHeight": 167,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

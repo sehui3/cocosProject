@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5f015184-c8c0-404c-b70e-4e446487aa65",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "腊味煲仔饭": {
+      "ver": "1.0.3",
+      "uuid": "a6b6f9b0-8b31-4729-9527-8a542664ee3d",
+      "rawTextureUuid": "5f015184-c8c0-404c-b70e-4e446487aa65",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 123,
+      "rawWidth": 184,
+      "rawHeight": 123,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

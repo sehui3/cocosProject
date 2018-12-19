@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a56ba6e4-8a0e-4b32-af50-2a36f77c277b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "腊味合蒸": {
+      "ver": "1.0.3",
+      "uuid": "188974fb-2906-462c-b6b5-27190ba876ca",
+      "rawTextureUuid": "a56ba6e4-8a0e-4b32-af50-2a36f77c277b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 165,
+      "height": 114,
+      "rawWidth": 165,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

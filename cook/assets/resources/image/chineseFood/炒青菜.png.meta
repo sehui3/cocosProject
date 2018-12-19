@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b84da642-1329-4192-930a-e746f70a34d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "炒青菜": {
+      "ver": "1.0.3",
+      "uuid": "9f5ed660-c4bc-48de-81e2-5fc5567faae9",
+      "rawTextureUuid": "b84da642-1329-4192-930a-e746f70a34d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 103,
+      "rawWidth": 140,
+      "rawHeight": 103,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

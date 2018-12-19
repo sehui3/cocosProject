@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "44f8bd1b-c4bf-4993-97f9-3ee37674c4b2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "炸鸡咖喱蛋包饭": {
+      "ver": "1.0.3",
+      "uuid": "383e8272-d297-4e5b-b331-2f116d56a5fa",
+      "rawTextureUuid": "44f8bd1b-c4bf-4993-97f9-3ee37674c4b2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 120,
+      "rawWidth": 172,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

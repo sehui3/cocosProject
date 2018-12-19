@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4068a981-2cfb-489b-8872-70ec0a5ab574",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "干炒牛河": {
+      "ver": "1.0.3",
+      "uuid": "1f5f61dc-542b-44ea-a325-77772c243eba",
+      "rawTextureUuid": "4068a981-2cfb-489b-8872-70ec0a5ab574",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 117,
+      "rawWidth": 157,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

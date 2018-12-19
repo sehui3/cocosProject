@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b00154d1-0837-47a4-a2ab-405839a2d523",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "4-3菜谱正在研制": {
+      "ver": "1.0.3",
+      "uuid": "dd8b4510-890d-491f-80fa-dfb67510f50c",
+      "rawTextureUuid": "b00154d1-0837-47a4-a2ab-405839a2d523",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1280,
+      "rawWidth": 720,
+      "rawHeight": 1280,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

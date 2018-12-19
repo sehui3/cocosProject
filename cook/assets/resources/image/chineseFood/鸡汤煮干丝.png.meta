@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "22427044-5a74-4684-8ab1-1d9126169552",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "鸡汤煮干丝": {
+      "ver": "1.0.3",
+      "uuid": "83454456-8760-4d3f-9177-b245c78674f0",
+      "rawTextureUuid": "22427044-5a74-4684-8ab1-1d9126169552",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 172,
+      "height": 126,
+      "rawWidth": 172,
+      "rawHeight": 126,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

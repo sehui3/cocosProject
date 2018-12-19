@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8b274890-9454-4440-a6eb-cf46c2d8ccb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "菜棚": {
+      "ver": "1.0.3",
+      "uuid": "79a65885-9cff-4b8b-899a-699659271ad6",
+      "rawTextureUuid": "8b274890-9454-4440-a6eb-cf46c2d8ccb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 169,
+      "rawWidth": 170,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
